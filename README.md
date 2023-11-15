@@ -5,6 +5,7 @@
 Olá, eu sou Carlos Queiroz, um entusiasta da tecnologia apaixonado(a) por transformar ideias em código. Atualmente, estou explorando Desenvolvimento Web Moderno.
 
 - 💼 Trabalhando como analista de suporte.
+- 👨‍🎓 Cursando Sistemas de Informação (3º período)
 - 🌱 Aprendendo mais sobre Java, Cloud, Linux, Rede.
 - 💬 Vamos conversar sobre A Evolução da Inteligência Artificial!
 
