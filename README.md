@@ -5,14 +5,15 @@
 Olá, eu sou Carlos Queiroz, um entusiasta da tecnologia apaixonado(a) por transformar ideias em código. Atualmente, estou explorando Desenvolvimento Web Moderno.
 
 - 💼 Trabalhando como analista de suporte.
-- 🌱 Aprendendo mais sobre Jav, cloud, linux.
+- 🌱 Aprendendo mais sobre Java, Cloud, Linux, Rede.
 - 💬 Vamos conversar sobre A Evolução da Inteligência Artificial!
 
 ## Linguagens e Ferramentas
 ![Java](https://img.shields.io/badge/-Java-red?style=flat&logo=java&logoColor=white)
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
+![Linux](https://img.shields.io/badge/-Linux-black?style=flat&logo=linux&logoColor=white)
+![Rede](https://img.shields.io/badge/-Rede-0078d4?style=flat&logo=internet-explorer&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![Spring](https://img.shields.io/badge/-Spring-brightgreen?style=flat&logo=spring&logoColor=white)
 
 ## Projetos em Destaque
 - [Nome do Projeto](link para o projeto) - Breve descrição do projeto.
