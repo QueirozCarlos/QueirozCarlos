@@ -24,7 +24,7 @@ Olá, eu sou Carlos Queiroz, um entusiasta da tecnologia apaixonado(a) por trans
 
 ## Como me Encontrar
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-queiroz27/)
-![Twitter](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&logo=twitter&logoColor=white)
+[![Twitter](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&logo=twitter&logoColor=white)]()
 [![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=flat-square)]()
 [![Email](https://img.shields.io/badge/-Email-red?style=flat-square)](carlos.aqrodrigues@hotmail.com)
 
