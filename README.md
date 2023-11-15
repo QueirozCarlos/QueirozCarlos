@@ -9,7 +9,7 @@ Olá, eu sou Carlos Queiroz, um entusiasta da tecnologia apaixonado(a) por trans
 - 💬 Vamos conversar sobre A Evolução da Inteligência Artificial!
 
 ## Linguagens e Ferramentas
-(![Java](https://img.shields.io/badge/-Java-red?style=flat&logo=java&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-red?style=flat&logo=java&logoColor=white)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
