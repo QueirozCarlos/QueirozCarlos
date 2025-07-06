@@ -1,50 +1,79 @@
-<!-- Carlos Queiroz -->
+<!-- Carlos Queiroz - GitHub README -->
 
-# 👋 Olá, seja bem-vindo ao meu perfil no GitHub!
-
-## 🧑‍💻 Sobre mim
-
-Sou **Carlos Queiroz**, apaixonado por tecnologia, inovação e por transformar ideias em soluções reais através do código. Atualmente atuo como **Analista de Suporte** e estou cursando **Sistemas de Informação (3º período)**. Estou sempre em busca de aprender, crescer e compartilhar conhecimento.
-
-- 💼 Atuando profissionalmente com suporte técnico e infraestrutura.
-- 📚 Estudando **Java**, **Cloud Computing**, **Linux** e **Redes**.
-- 🚀 Explorando o universo do **Desenvolvimento Web Moderno**.
-- 🤖 Interessado na evolução da **Inteligência Artificial** e suas aplicações práticas.
-
-## 🛠️ Tecnologias & Ferramentas
-
-![Java](https://img.shields.io/badge/-Java-red?style=flat&logo=java&logoColor=white)
-![Spring](https://img.shields.io/badge/-Spring-brightgreen?style=flat&logo=spring&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-black?style=flat&logo=linux&logoColor=white)
-![Redes](https://img.shields.io/badge/-Redes-0078d4?style=flat&logo=internet-explorer&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-orange?style=flat&logo=git&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-blue?style=flat&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-
-## 🚧 Projetos em Destaque
-
-| Projeto | Descrição |
-|--------|-----------|
-| [**Encontra Doutor Online**](#) | Plataforma para agendamento médico com foco em acessibilidade digital. |
-| [**Sistema de Controle de Estoque**](#) | Aplicação JavaFX integrada com PostgreSQL para gerenciar produtos, fornecedores e movimentações de estoque. |
-| [**Monitoramento de Idosos - Lar São Lucas**](#) | Projeto social voltado ao cuidado com idosos, com funcionalidades de medicação, relatórios e tarefas. |
-
-## 📊 GitHub Stats
-
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=QueirozCarlos&show_icons=true&theme=tokyonight&hide=contribs,prs)
-
-## 🌐 Como me encontrar
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-queiroz27/)
-[![Email](https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white)](mailto:carlos.aqrodrigues@hotmail.com)
-[![Portfólio](https://img.shields.io/badge/-Portfólio-000000?style=flat-square&logo=firefox&logoColor=white)](#) <!-- Atualize com o link quando tiver -->
-<!-- [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/seu_usuario) -->
-
-## 🤝 Contribuições
-
-Fique à vontade para explorar meus repositórios, abrir issues, sugerir melhorias ou colaborar com projetos. Acredito que o aprendizado cresce quando é compartilhado.
+<h1 align="center">🚀 Bem-vindo ao meu Universo Tech</h1>
+<p align="center">🔧 Codificando ideias, automatizando o futuro e impulsionando soluções com tecnologia.</p>
 
 ---
 
-⭐️ Obrigado por visitar meu perfil! Vamos construir algo incrível juntos! ⭐️
+## 👨‍💻 Sobre Mim
+
+Olá! Sou **Carlos Queiroz**, apaixonado por tecnologia e inovação. Com uma trajetória iniciada no suporte técnico e infraestrutura, hoje foco no desenvolvimento de sistemas, sempre guiado pela curiosidade, melhoria contínua e propósito de impactar vidas através da tecnologia.
+
+- 👨‍💼 **Analista de Suporte Técnico**
+- 🎓 **Graduando em Sistemas de Informação** (3º período)
+- 💡 Estudando: **Java**, **Cloud Computing**, **Linux**, **Redes**
+- 🤖 Entusiasta de **Inteligência Artificial** e soluções emergentes
+- 🧠 Mente inquieta e movida a desafios e descobertas
+
+---
+
+## 🧰 Tech Stack & Ferramentas
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" height="25" alt="Java"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" height="25" alt="Spring"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="25" alt="Linux"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="25" alt="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="25" alt="PostgreSQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="25" alt="Docker"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="25" alt="VSCode"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" height="25" alt="Redes"/>
+</div>
+
+---
+
+## 🚀 Projetos em Destaque
+
+| 💼 Projeto | 📄 Descrição |
+|-----------|-------------|
+| [**ChatBot-SaaS**](https://github.com/QueirozCarlos/ChatBot-SaaS) | Plataforma SaaS para chatbot com Java (Spring Boot), REST APIs, geração de relatórios em PDF e notificações em tempo real. |
+| **Sistema de Estoque em JavaFX** | Aplicativo desktop completo com cadastro de produtos, fornecedores e relatórios de movimentações. |
+| **Encontra Doutor Online** | Plataforma de agendamento médico com foco em idosos, usabilidade e acessibilidade. |
+| **Monitoramento de Idosos - Lar São Lucas** | Sistema social para cuidado e rotina de idosos com registro de medicação e saúde. |
+
+---
+
+## 📈 GitHub Stats
+
+<div align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=QueirozCarlos&show_icons=true&theme=radical&hide=prs&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=QueirozCarlos&layout=compact&theme=radical"/>
+</div>
+
+---
+
+## 🌐 Onde Me Encontrar
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/carlos-queiroz27/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:carlos.aqrodrigues@hotmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="#" target="_blank">
+    <img src="https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=firefox&logoColor=white"/>
+  </a>
+</div>
+
+---
+
+## 🤝 Contribuições & Comunidade
+
+Adoro colaborar com outros desenvolvedores e aprender em conjunto. Se quiser sugerir melhorias, criar issues ou contribuir com meus projetos, fique à vontade. A tecnologia é mais poderosa quando compartilhada.
+
+---
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Obrigado+por+visitar+meu+perfil!+;Vamos+construir+algo+incrível+juntos!+🚀" />
+</p>
