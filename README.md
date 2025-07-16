@@ -1,77 +1,109 @@
-<!-- Carlos Queiroz - GitHub README -->
+<h2 align="left">Olá! Meu nome é Carlos Queiroz.</h2>
 
-<h1 align="center">👋 Bem-vindo ao meu GitHub</h1>
-<p align="center">Transformando ideias em soluções através da tecnologia.</p>
+###
 
----
+<p align="left">## 👨‍💻 Sobre mim<br><br>Apaixonado por tecnologia e sempre em busca de novos desafios. Com experiência em suporte técnico e infraestrutura, hoje estou focado no desenvolvimento de sistemas e na evolução constante como profissional da área de TI.<br><br>- 💼 **Analista de Suporte Técnico**<br>- 🎓 **Analise e Desenvolvimento de Sistemas** (5º período)<br>- 🌱 Estudando **Java**, **Spring Boot**, **Cloud**, **Python**,**Linux** e **Redes**<br>- 🤖 Interessado em **Inteligência Artificial** e tecnologias emergentes<br>- 🧠 Curioso por natureza, apaixonado por aprender e ensinar</p>
 
-## 👨‍💻 Sobre mim
+###
 
-Olá! Sou **Carlos Queiroz**, apaixonado por tecnologia e sempre em busca de novos desafios. Com experiência em suporte técnico e infraestrutura, hoje estou focado no desenvolvimento de sistemas e na evolução constante como profissional da área de TI.
+<h3 align="left">Em aprendizado contínuo 🚧</h3>
 
-- 💼 **Analista de Suporte Técnico**
-- 🎓 **Graduando em Sistemas de Informação** (3º período)
-- 🌱 Estudando **Java**, **Cloud**, **Linux** e **Redes**
-- 🤖 Interessado em **Inteligência Artificial** e tecnologias emergentes
-- 🧠 Curioso por natureza, apaixonado por aprender e ensinar
+###
 
----
+<p align="left">Tenho concentrado meus esforços no aprendizado e prática de Java e Spring Boot para desenvolvimento back-end, além de aprofundar meus conhecimentos em Docker e SQL para infraestrutura e bancos de dados.</p>
 
-## 🛠️ Tecnologias & Ferramentas
+###
 
-<div align="center">
-  <img src="https://img.shields.io/badge/Java-red?style=flat&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Spring-brightgreen?style=flat&logo=spring&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-black?style=flat&logo=linux&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-orange?style=flat&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Redes-0078d4?style=flat&logo=internet-explorer&logoColor=white"/>
+<h3 align="left">Tecnologias e linguagens 💻</h3>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=c" height="40" alt="c logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=sqlite" height="40" alt="sqlite logo"  />
 </div>
 
----
+###
 
-## 🚀 Projetos em Destaque
+<h3 align="left">🚀 Frameworks e bibliotecas</h3>
 
-| Projeto | Descrição |
-|--------|-----------|
-| [**ChatBot-SaaS**](https://github.com/QueirozCarlos/ChatBot-SaaS) | Backend de uma plataforma SaaS para chatbot com Java (Spring Boot), APIs REST, geração de relatórios em PDF e notificações em tempo real. |
-| [**Sistema de Estoque em JavaFX**](#) | Aplicação desktop para controle de estoque, com cadastro de produtos, fornecedores e relatórios de movimentação. |
-| [**Plataforma Encontra Doutor Online**](#) | Sistema para agendamento médico com foco em usabilidade e acessibilidade para idosos. |
-| [**Monitoramento de Idosos - Lar São Lucas**](#) | Projeto social voltado ao cuidado de idosos, com funcionalidades de medicação, saúde e acompanhamento de tarefas. |
+###
 
----
-
-## 📊 Estatísticas do GitHub
-
-<div align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=QueirozCarlos&show_icons=true&theme=tokyonight&hide=prs"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=QueirozCarlos&layout=compact&theme=tokyonight"/>
+<div align="left">
+  <img src="https://cdn.simpleicons.org/react/61DAFB" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/spring/6DB33F" height="40" alt="spring logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=flask" height="40" alt="flask logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=pytorch" height="40" alt="pytorch logo"  />
 </div>
 
----
+###
 
-## 🌐 Contato
+<h3 align="left">🛠️ Ferramentas de desenvolvimento</h3>
 
-<div align="center">
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="intellij logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/insomnia/insomnia-original.svg" height="40" alt="insomnia logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
+</div>
+
+###
+
+<h3 align="left">Vamos nos conectar? Me envie um e-mail, me siga no LinkedIn  ✨</h3>
+
+###
+
+<div align="left">
   <a href="https://www.linkedin.com/in/carlos-queiroz27/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/>
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
-  <a href="mailto:carlos.aqrodrigues@hotmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/Portfólio-000000?style=flat&logo=firefox&logoColor=white"/>
+  <a href="carlos.aqrodrigues@hotmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg" width="52" height="40" alt="microsoft-outlook logo"  />
   </a>
 </div>
 
----
+###
 
-## 🤝 Contribuições
+<br clear="both">
 
-Seja bem-vindo(a) para explorar meus repositórios, deixar sugestões ou contribuir com melhorias. Acredito na força da comunidade e na colaboração como motor para o progresso da tecnologia.
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=QueirozCarlos&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=QueirozCarlos&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
 
----
+###
 
-<p align="center">⭐ Obrigado por visitar o meu perfil! ⭐</p>
+<br clear="both">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/QueirozCarlos/QueirozCarlos/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/QueirozCarlos/QueirozCarlos/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/QueirozCarlos/QueirozCarlos/output/pacman-contribution-graph.svg">
+</picture>
+
+###
