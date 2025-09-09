@@ -1,20 +1,32 @@
-<h2 align="left">Olá! Meu nome é Carlos Queiroz.</h2>
+<h2 align="left">Olá! Meu nome é Carlos Queiroz 👋</h2>
 
 ###
 
-<p align="left">## 👨‍💻 Sobre mim<br><br>Apaixonado por tecnologia e sempre em busca de novos desafios. Com experiência em suporte técnico e infraestrutura, hoje estou focado no desenvolvimento de sistemas e na evolução constante como profissional da área de TI.<br><br>- 💼 **Analista de Suporte Técnico**<br>- 🎓 **Analise e Desenvolvimento de Sistemas** (5º período)<br>- 🌱 Estudando **Java**, **Spring Boot**, **Cloud**, **Python**,**Linux** e **Redes**<br>- 🤖 Interessado em **Inteligência Artificial** e tecnologias emergentes<br>- 🧠 Curioso por natureza, apaixonado por aprender e ensinar</p>
+<p align="left">
+  ## 👨‍💻 Sobre mim<br><br>
+  Sou apaixonado por tecnologia e motivado por novos desafios. Tenho experiência em suporte técnico e infraestrutura, 
+  e atualmente estou focado no desenvolvimento de sistemas, buscando constante evolução como profissional de TI.<br><br>
+  
+  - 💼 <strong>Analista de Suporte Técnico</strong><br>
+  - 🎓 <strong>Graduando em Análise e Desenvolvimento de Sistemas</strong> (5º período)<br>
+  - 🌱 Estudando <strong>Java</strong>, <strong>Spring Boot</strong>, <strong>Cloud</strong>, <strong>Python</strong>, <strong>Linux</strong> e <strong>Redes</strong><br>
+  - 🤖 Interessado em <strong>Inteligência Artificial</strong> e tecnologias emergentes<br>
+  - 🧠 Curioso por natureza, com paixão por aprender e compartilhar conhecimento
+</p>
 
 ###
 
-<h3 align="left">Em aprendizado contínuo 🚧</h3>
+<h3 align="left">🚀 Em aprendizado contínuo</h3>
 
 ###
 
-<p align="left">Tenho concentrado meus esforços no aprendizado e prática de Java e Spring Boot para desenvolvimento back-end, além de aprofundar meus conhecimentos em Docker e SQL para infraestrutura e bancos de dados.</p>
+<p align="left">
+  Atualmente concentro meus esforços no domínio de <strong>Java</strong> e <strong>Spring Boot</strong> para o desenvolvimento back-end, 
+  além de aprimorar minhas habilidades em <strong>Docker</strong> e <strong>SQL</strong>, 
+  fortalecendo minha base em infraestrutura e bancos de dados.
+</p>
 
-###
-
-<h3 align="left">💻 My favourite tools and technologies 💻</h3>
+<h3 align="left">Principais ferramentas e tecnologias 💻</h3>
 
 <div style="display: flex; align-items: flex-start; align: center">
 <table align="center">
